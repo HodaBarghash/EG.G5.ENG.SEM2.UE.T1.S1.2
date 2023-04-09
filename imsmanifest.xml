@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest identifier="_6GPMdvPIg0E" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<manifest identifier="_5VV47mvuh08" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
   <metadata>
     <schema>ADL SCORM</schema>
     <schemaversion>1.2</schemaversion>
@@ -53,21 +53,28 @@
   <organizations default="EG.G5.ENG.SEM2.UE.T1.S1.2_ORG">
     <organization identifier="EG.G5.ENG.SEM2.UE.T1.S1.2_ORG">
       <title>EG.G5.ENG.SEM2.UE.T1.S1.2</title>
-      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__6GPMdvPIg0E_RES">
+      <item identifier="المادة_مصر_أول_إعدادي_1_SCO" isvisible="true" identifierref="__5VV47mvuh08_RES">
         <title>EG.G5.ENG.SEM2.UE.T1.S1.2</title>
       </item>
     </organization>
   </organizations>
   <resources>
-    <resource identifier="__6GPMdvPIg0E_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+    <resource identifier="__5VV47mvuh08_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
       <file href="story_content/thumbnail.jpg" />
       <file href="mobile/5rnimUMnW0M.png" />
       <file href="mobile/6gwfW6Qd9w5_P_1466_84_107_106.png" />
       <file href="story_content/5bAEZkN7iRe_44100_160_0.mp3" />
+      <file href="story_content/5zWbo2Dt7Ao_44100_160_0.mp3" />
       <file href="story_content/6qRxpsWGTDI_44100_160_0.mp3" />
+      <file href="story_content/6LMIcEXuPXK_44100_160_0.mp3" />
       <file href="mobile/5acePXrvBuf.gif" />
       <file href="story_content/5tAdBpaPZcW_44100_160_0.mp3" />
+      <file href="story_content/6L7AKwwgenx_44100_160_0.mp3" />
       <file href="mobile/6a2guQlCWq1.gif" />
+      <file href="story_content/5lDTWTYoXYs_44100_160_0.mp3" />
+      <file href="story_content/6K5xyJWc6Au_44100_160_0.mp3" />
+      <file href="story_content/61xYMwiXiXm_44100_160_0.mp3" />
+      <file href="story_content/5t9JSWlbzG7_44100_160_0.mp3" />
       <file href="meta.xml" />
       <file href="story_content/5pCetDB5fCx.png" />
       <file href="story_content/user.js" />
