@@ -2,7 +2,7 @@ function ExecuteScript(strId)
 {
   switch (strId)
   {
-      case "5x8I76nUzQ2":
+      case "5nv7kM6ZamK":
         Script1();
         break;
   }
@@ -10,7 +10,7 @@ function ExecuteScript(strId)
 
 function Script1()
 {
-  const url="   "
+  const url="https://script.google.com/macros/s/AKfycbzbfXxA8PZaxTKyfvfGnpE_obBj4xl1Sbvk4D2m7c9jV-bgUHMtyYlO1PyNY3roEjv2/exec"
 
 var player=GetPlayer()
 
